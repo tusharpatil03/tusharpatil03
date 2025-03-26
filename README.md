@@ -38,10 +38,17 @@ I'm passionate about building **efficient, scalable, and well-architected system
 > **Tech Stack:** React, GraphQL, PostgreSQL, Node.js  
 A fully-fledged project management system with an API Gateway, business logic layer, and a PostgreSQL database.
 
-### 📌 **Gmail-to-WhatsApp Notification System**
-> **Tech Stack:** Node.js, Gmail API, WhatsApp API  
-An automation tool that sends Gmail notifications directly to WhatsApp with additional features like replying and attachment detection.
+### 📌 **2D metaverse Game (web application)**
+> **Tech Stack:** Node.js, PostgreSQL, React, phaser   
+a web based game that build for real time interactions between teams.
 
+### 📌 **Ecommerce website**
+> **Tech Stack:** Node.js, MongoDB, React   
+a simple ecommerce website
+
+### 📌 **Gmail-to-WhatsApp Notification System**
+> **Tech Stack:** python, Gmail API, WhatsApp API  
+An automation tool that sends Gmail notifications directly to WhatsApp with additional features like replying and attachment detection.
 
 ---
 
