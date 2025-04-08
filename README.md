@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Tushar
 
-🚀 **Backend Engineer | Linux Enthusiast | Low-Level Explorer**
+🚀 **Backend Engineer | Tech Enthusiast | Low-Level Explorer**
 
 I'm passionate about building **efficient, scalable, and well-architected systems**. I love breaking down **abstractions**, diving deep into **software design**, and making technology work at its core.
 
