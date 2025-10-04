@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Tushar
 
-🚀 **Backend Engineer | Tech Enthusiast | Low-Level Explorer**
+🚀 **Backend Engineer | Tech Enthusiast **
 
 I'm passionate about building **efficient, scalable, and well-architected systems**. I love breaking down **abstractions**, diving deep into **software design**, and making technology work at its core.
 
@@ -12,7 +12,7 @@ I'm passionate about building **efficient, scalable, and well-architected system
 ### **Programming Languages:**
 - ⚡ **TypeScript** (Strongly-typed JS for better scalability)
 - 🚀 **JavaScript (Node.js)** (Backend development)
-- 💻 **C++** (Exploring system-level programming)
+- 💻 **C** (Exploring system-level programming)
 
 
 ### **Backend & APIs:**
@@ -46,15 +46,11 @@ a web based game that build for real time interactions between teams.
 > **Tech Stack:** Node.js, MongoDB, React   
 a simple ecommerce website
 
-### 📌 **Gmail-to-WhatsApp Notification System**
-> **Tech Stack:** python, Gmail API, WhatsApp API  
-An automation tool that sends Gmail notifications directly to WhatsApp with additional features like replying and attachment detection.
-
 ---
 
 ## 🌱 **What I’m Learning & Exploring**
 - **Intelligent Assistants** – Building logic-driven AI systems.
-- **Advanced C++ Concepts** – Understanding low-level memory management.
+- **Advanced C Concepts** – Understanding low-level memory management.
 - **Software Design Patterns** – Writing modular and scalable code.
 - **Linux Kernel & System Internals** – Getting deeper into system-level programming.
 
