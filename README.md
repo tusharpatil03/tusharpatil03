@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Tushar
 
-🚀 **Backend Engineer | Tech Enthusiast | Open Source Contributor**
+🚀 **Full stack developer | Tech Enthusiast | Open Source Contributor**
 
 I'm passionate about building **efficient, scalable, and well-architected systems**. I love breaking down **abstractions**, diving deep into **software design**, and making technology work at its core.
 
@@ -21,7 +21,7 @@ I'm passionate about building **efficient, scalable, and well-architected system
 - 🏗️ **RESTful APIs** (Traditional API development)
 
 ### **Databases & Storage:**
-- 🛢 **PostgreSQL with Prisma ORM** (Relational database management & optimization)
+- 🛢 **PostgreSQL with Prisma/Drizzle ORM** (Relational database management & optimization)
 - 🔹 **MongoDB** (Document-based NoSQL database)
 - 🔄 **Replication & Transactions** (Ensuring consistency and reliability)
 
@@ -50,8 +50,8 @@ a simple ecommerce website
 
 ## 🌱 **What I’m Learning & Exploring**
 - **Intelligent Assistants** – Building logic-driven AI systems.
-- **Advanced C Concepts** – Understanding low-level memory management.
 - **Software Design Patterns** – Writing modular and scalable code.
+- **Advanced C Concepts** – Understanding low-level memory management.
 - **Linux Kernel & System Internals** – Getting deeper into system-level programming.
 
 ---
