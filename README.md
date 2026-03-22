@@ -12,18 +12,17 @@ I'm passionate about building **efficient, scalable, and well-architected system
 ### **Programming Languages:**
 - ⚡ **TypeScript** (Strongly-typed JS for better scalability)
 - 🚀 **JavaScript (Node.js)** (Backend development)
-- 💻 **C** (Exploring system-level programming)
+- 💻 **Java** Exploring cross platform app development
 
 
 ### **Backend & APIs:**
-- ⚙️ **Node.js** (Event-driven architecture, microservices, and real-time systems)
+- ⚙️ **Node.js** (Event-driven architecture, Microservices, and real-time systems)
 - 🔗 **GraphQL** (Efficient data querying and API design)
 - 🏗️ **RESTful APIs** (Traditional API development)
 
 ### **Databases & Storage:**
 - 🛢 **PostgreSQL with Prisma/Drizzle ORM** (Relational database management & optimization)
 - 🔹 **MongoDB** (Document-based NoSQL database)
-- 🔄 **Replication & Transactions** (Ensuring consistency and reliability)
 
 ### **DevOps & Tools:**
 - 🐧 **Linux CLI** (Command-line mastery for automation and control)
@@ -34,29 +33,32 @@ I'm passionate about building **efficient, scalable, and well-architected system
 
 ## 🛠 **Projects & Contributions**
 
-### 📌 **Project Management System** (🚧 In Development)
+### 📌 **Project Management Platform**
 > **Tech Stack:** React, GraphQL, PostgreSQL, Node.js  
 A fully-fledged project management system with an API Gateway, business logic layer, and a PostgreSQL database.
 
-### 📌 **2D metaverse Game (web application)**
+### Compliance Automation [In Progress] [Github]
+> Engineered a **multi-tenant** backend platform to automate **KYC** verification and **AML** compliance workflows.
+> Established an **Event-Driven Architecture** using publisher subscriber model.
+> Secured APIs with authorization via secure keys and a tenant-based management system.
+> Ensured transactional consistency using Repository and **Unit-of-Work** design patterns.
+
+
+### 📌 **2D metaverse Game (Backend Server)**
 > **Tech Stack:** Node.js, PostgreSQL, React, phaser   
 a web based game that build for real time interactions between teams.
-
-### 📌 **Ecommerce website**
-> **Tech Stack:** Node.js, MongoDB, React   
-a simple ecommerce website
 
 ---
 
 ## 🌱 **What I’m Learning & Exploring**
 - **Intelligent Assistants** – Building logic-driven AI systems.
 - **Software Design Patterns** – Writing modular and scalable code.
-- **Advanced C Concepts** – Understanding low-level memory management.
+- **Modern Web Frameworks and tools** - Exploring How this tools are designed and programmed
 - **Linux Kernel & System Internals** – Getting deeper into system-level programming.
 
 ---
 
 ## 📫 **Let's Connect!**
-💬 Always open to discussions on **backend systems, Linux workflows, and software architecture**. Feel free to connect or collaborate! 🚀
+💬 Always open to discussions on **backend systems, Web Technologies, and software architecture**. Feel free to connect or collaborate! 🚀
 
 📝 [Dev.to](https://dev.to/tush03) | 🏢 [LinkedIn](https://www.linkedin.com/in/tushar-patil-a644082a6/)
