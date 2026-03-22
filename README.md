@@ -33,16 +33,15 @@ I'm passionate about building **efficient, scalable, and well-architected system
 
 ## 🛠 **Projects & Contributions**
 
-### 📌 **Project Management Platform**
-> **Tech Stack:** React, GraphQL, PostgreSQL, Node.js  
-A fully-fledged project management system with an API Gateway, business logic layer, and a PostgreSQL database.
-
-### Compliance Automation [In Progress] [Github]
+### 📌 Compliance Automation [In Progress]
 > Engineered a **multi-tenant** backend platform to automate **KYC** verification and **AML** compliance workflows.
 > Established an **Event-Driven Architecture** using publisher subscriber model.
 > Secured APIs with authorization via secure keys and a tenant-based management system.
 > Ensured transactional consistency using Repository and **Unit-of-Work** design patterns.
 
+### 📌 **Project Management Platform**
+> **Tech Stack:** React, GraphQL, PostgreSQL, Node.js  
+A fully-fledged project management system with an API Gateway, business logic layer, and a PostgreSQL database.
 
 ### 📌 **2D metaverse Game (Backend Server)**
 > **Tech Stack:** Node.js, PostgreSQL, React, phaser   
